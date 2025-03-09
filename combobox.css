@@ -1,0 +1,27 @@
+
+.combobox {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+}
+.combobox-input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+.combobox-dropdown {
+    position: absolute;
+    width: 100%;
+    border: 1px solid #ccc;
+    background: #fff;
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 1000;
+}
+.completion {
+    padding: 8px;
+    cursor: pointer;
+}
+.completion:hover {
+    background: #f0f0f0;
+}
