@@ -2,7 +2,7 @@
 
 A customizable text input widget that supports autocompletions.
 
-![Screenshot 1](https://github.com/user-attachments/assets/47e4b963-e99b-4589-9790-18d48582b2a5) ![Screenshot 2](https://github.com/user-attachments/assets/4a252525-4220-49dd-9ccc-be2796e25a9d)
+![Screenshot 1](https://github.com/user-attachments/assets/4de5c51f-d29b-45a6-a571-329bc8c2fc78) ![Screenshot 2](https://github.com/user-attachments/assets/c8e37d46-6c41-4654-aec8-0750c949a536)
 
 # Installation
 
