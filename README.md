@@ -35,3 +35,6 @@ app.get("/submit", (req, res) => {
 
 app.listen(3000, () => { console.log("App is listening on http://localhost:3000/")});
 ```
+
+![Screenshot 1](https://github.com/user-attachments/assets/47e4b963-e99b-4589-9790-18d48582b2a5) ![Screenshot 2](https://github.com/user-attachments/assets/4a252525-4220-49dd-9ccc-be2796e25a9d)
+
